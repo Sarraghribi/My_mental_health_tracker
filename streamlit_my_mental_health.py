@@ -13,7 +13,7 @@ from streamlit_extras.stodo import to_do
 from matplotlib import rcParams
 import openai
 
-openai.api_key = "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"
+openai.api_key =st.secrets["key2"]
 
 rcParams['font.family'] = 'serif'
 
