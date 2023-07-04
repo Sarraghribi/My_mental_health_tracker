@@ -90,7 +90,7 @@ multidict==6.0.2
 munkres==1.1.4
 nest-asyncio==1.5.6
 numexpr==2.8.4
-numpy>=1.16
+numpy>=1.14.5
 oauthlib==3.2.2
 openai==0.27.8
 openpyxl==3.0.9
