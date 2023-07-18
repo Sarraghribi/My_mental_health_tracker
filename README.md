@@ -7,3 +7,5 @@ The developed application utilized deep learning techniques, including computer 
 The Streamlit framework was chosen for the application due to its simplicity and ease of use in building interactive and user-friendly web interfaces. Streamlit provided a smooth user experience, allowing users to easily upload or capture images and receive real-time feedback on their emotional state.
 
 In addition to real-time emotion detection, the application incorporated a tracking mechanism to record and store the detected emotions over time. This data can be further analyzed and visualized to gain insights into the user's mental health patterns, trends, and emotional well-being. Such analysis can contribute to mental health research, personalized therapy, and self-awareness.
+
+YouTube : https://youtu.be/0f4T9W9b7pg
